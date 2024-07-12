@@ -1,9 +1,7 @@
 # M3-W2-D1-Exercise
-Sure! Here is a suggested content for your README.md file to describe the MongoDB exercise project:
 
 ### README.md
 
-```markdown
 # MongoDB In-Class Exercise
 
 ## Overview
